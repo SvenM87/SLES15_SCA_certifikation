@@ -16,11 +16,11 @@ Dieser deutschsprachige Selbstlernkurs bereitet auf die Prüfung **SCA in SUSE L
 | Ordner | Inhalt |
 |---|---|
 | `kurs/` | Theorie, Befehle, Prüfungswissen und Kontrollfragen |
-| `uebungen/` | Geführte Praxisaufgaben für WSL/SLES |
+| `uebungen/` | Geführte Praxisaufgaben für eine SLES-VM |
 | `lernplan/` | Lernplan und Fortschrittskontrolle |
 | `pruefung/` | Simulation und Kompetenzcheck |
 | `quellen/` | Quellen, Videos und Handbuchablage |
 
-Für viele Übungen genügt SLES 15 unter WSL 2. Bootloader, initrd, echte Blockgeräte, Btrfs/Snapper-Rollback und realistische Netzwerkdienste sollten zusätzlich in einer entbehrlichen SLES-VM geübt werden.
+Die verbindliche Praxisumgebung ist SLES 15 SP7 unter Oracle VirtualBox. Einrichtung, virtuelle Datenträger, Netzwerk und Wiederherstellungspunkte stehen in der [VirtualBox-Laborumgebung](uebungen/00-virtualbox-laborumgebung.md). WSL bleibt eine optionale Umgebung für kurze Shell-Übungen.
 
 Die im Auftrag erwähnten Handbücher waren beim Erstellen nicht im Checkout sichtbar. `quellen/handbuecher/` ist als Ablageort vorbereitet. Eine konkrete Kapitelzuordnung kann ergänzt werden, sobald die Dateien vorliegen.

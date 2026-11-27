@@ -10,7 +10,7 @@
 
 ## Verifikation
 
-Die Dokumentation enthält Ausgaben oder Erklärungen zu `os-release`, `uname`, `SUSEConnect`, `zypper products`, `zypper repos` und YaST. Falls das WSL-Image nicht registriert ist, den Zustand erklären und keine fremden Zugangsdaten verwenden.
+Die Dokumentation enthält Ausgaben oder Erklärungen zu `os-release`, `uname`, `SUSEConnect`, `zypper products`, `zypper repos`, VirtualBox-Hardware und YaST. Falls die VM nicht registriert ist, den Zustand erklären und keine fremden Zugangsdaten verwenden.
 
 ## Transfer
 

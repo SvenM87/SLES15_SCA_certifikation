@@ -27,7 +27,7 @@ Der Plan rechnet mit fünf Lerntagen pro Woche, werktags 60 bis 90 Minuten und e
 - Tag 3: Services und Timer
 - Tag 4: journald, rsyslog und logrotate
 - Tag 5: supportconfig und Diagnose
-- Praxisblock: Labor 03 und Logging-Teil von Labor 07. Boot zusätzlich in VM.
+- Praxisblock: Labor 03 einschließlich Bootanalyse sowie Logging-Teil von Labor 07
 
 ## Woche 4 · Storage
 
@@ -36,7 +36,7 @@ Der Plan rechnet mit fünf Lerntagen pro Woche, werktags 60 bis 90 Minuten und e
 - Tag 3: LVM-Grundlagen
 - Tag 4: LVM-Erweiterung und Snapshots
 - Tag 5: Btrfs, Subvolumes und Snapper
-- Praxisblock: Labor 05, Btrfs-Rollback zusätzlich in VM
+- Praxisblock: Labor 05 einschließlich Btrfs- und Snapper-Wiederherstellung
 
 ## Woche 5 · Netzwerk, Remote-Zugriff und Software
 

@@ -24,7 +24,7 @@ sudo yast2 lan
 
 Je nach Installation kann NetworkManager aktiv sein. Dann gelten `nmcli connection show` und `nmcli device status`. Werkzeuge nicht ungeprüft mischen.
 
-`/etc/hosts` liefert lokale statische Zuordnungen. `/etc/nsswitch.conf` legt die Reihenfolge der Namensquellen fest. WSL kann `/etc/resolv.conf` automatisch erzeugen.
+`/etc/hosts` liefert lokale statische Zuordnungen. `/etc/nsswitch.conf` legt die Reihenfolge der Namensquellen fest. In der Labor-VM werden ein NAT- und ein Host-only-Interface getrennt konfiguriert.
 
 ## Diagnosefolge
 

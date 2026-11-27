@@ -29,7 +29,7 @@ journalctl -u sshd --since today
 systemctl --failed
 ```
 
-`start` ändert den Laufzeitzustand, `enable` die Startverknüpfungen. `rescue.target` bietet eine minimale Umgebung, `emergency.target` noch weniger. WSL bildet Firmware und GRUB nicht real ab.
+`start` ändert den Laufzeitzustand, `enable` die Startverknüpfungen. `rescue.target` bietet eine minimale Umgebung, `emergency.target` noch weniger. Die VirtualBox-VM erlaubt praktische Übungen mit Firmware, GRUB, initrd und Rettungszielen.
 
 ## Kontrollfragen
 
