@@ -5,6 +5,7 @@ Diese Anleitung richtet die verbindliche Laborumgebung ein. Verwendet werden Ora
 ```text
 SLE-15-SP7-Full-x86_64-GM-Media1.iso
 ```
+https://www.suse.com/download/sles/
 
 Die Full-Media1-ISO enthält die Binärpakete. `Media2` enthält Quellpakete und wird nicht benötigt.
 
