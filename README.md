@@ -23,4 +23,4 @@ Dieser deutschsprachige Selbstlernkurs bereitet auf die Prüfung **SCA in SUSE L
 
 Die verbindliche Praxisumgebung ist SLES 15 SP7 unter Oracle VirtualBox. Einrichtung, virtuelle Datenträger, Netzwerk und Wiederherstellungspunkte stehen in der [VirtualBox-Laborumgebung](uebungen/00-virtualbox-laborumgebung.md). WSL bleibt eine optionale Umgebung für kurze Shell-Übungen.
 
-Die im Auftrag erwähnten Handbücher waren beim Erstellen nicht im Checkout sichtbar. `quellen/handbuecher/` ist als Ablageort vorbereitet. Eine konkrete Kapitelzuordnung kann ergänzt werden, sobald die Dateien vorliegen.
+Die bereitgestellten Handbücher liegen unter `quellen/handbuecher/`. Ihre Zuordnung zu den Prüfungsthemen steht in der [Handbuch-Matrix](quellen/handbuch-matrix.md).
